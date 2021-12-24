@@ -1,5 +1,5 @@
 # Templated-Linked-List-Implementation
-Templated Linked List Class and Templated Linked List Iterator Class --> Exploration in Data Structures
+Implemenation of Templated Linked List Class and Templated Linked List Iterator Class (Exploration in Data Structures)
 
 ### PROGRAM DESCRIPTION -- Implement a templated linked list class, along with an associated iterator class for helping with generic container traversals. 
 
