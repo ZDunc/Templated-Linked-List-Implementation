@@ -1,4 +1,4 @@
-# Templated-Linked-List-Implementation
+# Templated Linked List Implementation
 
 ### PROGRAM DESCRIPTION -- Implement a templated linked list class, along with an associated iterator class for helping with generic container traversals
 
