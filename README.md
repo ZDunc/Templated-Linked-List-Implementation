@@ -3,9 +3,11 @@ Templated Linked List Class and Templated Linked List Iterator Class --> Explora
 
 ## PROGRAM DESCRIPTION -- Implement a templated linked list class, along with an associated iterator class for helping with generic container traversals. 
 
-### Functions included in the linked list class: default constructor, deconstructor, copy constructor, copy assignment operator, move constructor, additon overload, isEmpty(), Clear(), GetSize(), InsertFront(), InsertBack(), RemoveFront(), RemoveBack(), GetFirst(), GetLast(), GetIterator(), GetIteratorEnd(), Insert(), Remove(), and Print(). 
+### Functions included in the linked list class: 
+Default constructor, deconstructor, copy constructor, copy assignment operator, move constructor, additon overload, isEmpty(), Clear(), GetSize(), InsertFront(), InsertBack(), RemoveFront(), RemoveBack(), GetFirst(), GetLast(), GetIterator(), GetIteratorEnd(), Insert(), Remove(), and Print(). 
 
-### Iterator class functions include: default constructor, HasNext(), HasPrevious(), Next(), Previous(), and GetData().
+### Iterator class functions include:
+Default constructor, HasNext(), HasPrevious(), Next(), Previous(), and GetData().
 
 ## REPOSITORY CONTENTS
 - tlist.h
